@@ -19,3 +19,5 @@
 ************************************************************************************************************************************************************************************
 
 Simple iOS application using Swift/SwiftUI on Xcode. 
+
+***To download the zip file, click the file and then "view raw" and the zip file will be downloaded to your local machine. And then extract the contents of the file :)***
